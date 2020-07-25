@@ -12,8 +12,6 @@ Learn to build a full featured Video Calling Android App like Whatsapp, Skype an
 ➡️ (1:08:20) Integrate Video Call SDK <br>
 ➡️ (1:17:10) Final Application <br>
 
-To get Source Code files for this application please leave a comment below with your email and message, I will give you access to source code.
-
 Firebase Auth Docs: https://firebase.google.com/docs/auth/android/start
 
 Cloud Firestore Docs: https://firebase.google.com/docs/firestore/quickstart#java 
