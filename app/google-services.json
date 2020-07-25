@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "839034067676",
+    "firebase_url": "https://guftgo-fe3ec.firebaseio.com",
+    "project_id": "guftgo-fe3ec",
+    "storage_bucket": "guftgo-fe3ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839034067676:android:0c933895b6d7e56350f219",
+        "android_client_info": {
+          "package_name": "com.example.guftgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839034067676-2oa704t5i9v6sadmqro491kjgfdvhs1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLg70t_1TDkaF59QCWpg5ijgeIAIuhIgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839034067676-2oa704t5i9v6sadmqro491kjgfdvhs1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
